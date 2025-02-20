@@ -2,7 +2,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 ##Conversão para numpy arrays 
-arr = np.array([1,2,3])
+arr = np.array([1,2,3]) 
 ##print(arr)
 
 ##Converter números para float
